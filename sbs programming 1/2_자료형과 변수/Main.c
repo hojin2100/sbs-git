@@ -21,26 +21,16 @@
 // string 문자열
 
 #include <stdio.h>
-#include <Windows.h>
-void gotoxy(int x, int y) 
-{
-	COORD coord;
-	coord.X = x;
-	coord.Y = y;
-	SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), coord);
-}
+
 
 int main()
 {  
-	system("cls");
+
 	// 더블킬 게임 화면에 출력하고싶음
 	// 레드팀과 블루팀의 스코어를 출력하고싶음
-	// 챔피언이 가지고 있는 스텟을 출력하고싶음
-	gotoxy(20 , 0); 
+	// 챔피언이 가지고 있는 스텟을 출력하고싶음 
 	printf(" Red: 10 Blue: 15\n");
-	gotoxy(10, 2);
 	printf("더블킬\n");
-	gotoxy(10, 10);
 	int level = 1;
 	int GarenfirstLevelHp = 690;
 	float GarenGrowthHp = 98;
