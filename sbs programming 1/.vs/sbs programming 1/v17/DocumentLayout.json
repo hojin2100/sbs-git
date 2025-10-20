@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E601FE06-6FDD-4930-9EB1-1F283DAEAD58}|3_\uB514\uBC84\uAE45\\3_\uB514\uBC84\uAE45.vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\3_\uB514\uBC84\uAE45\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E601FE06-6FDD-4930-9EB1-1F283DAEAD58}|3_\uB514\uBC84\uAE45\\3_\uB514\uBC84\uAE45.vcxproj|solutionrelative:3_\uB514\uBC84\uAE45\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{49CB907B-3DAE-46B6-835D-3D8F169E424C}|4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815.vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49CB907B-3DAE-46B6-835D-3D8F169E424C}|4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815.vcxproj|solutionrelative:4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CB907B-3DAE-46B6-835D-3D8F169E424C}|4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815.vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\PlayerMove.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49CB907B-3DAE-46B6-835D-3D8F169E424C}|4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815.vcxproj|solutionrelative:4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\PlayerMove.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 930,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +30,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMove.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\PlayerMove.h",
+              "RelativeDocumentMoniker": "4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\PlayerMove.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\PlayerMove.h",
+              "RelativeToolTip": "4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\PlayerMove.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-20T08:31:29.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\3_\uB514\uBC84\uAE45\\Main.c",
-              "RelativeDocumentMoniker": "3_\uB514\uBC84\uAE45\\Main.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\3_\uB514\uBC84\uAE45\\Main.c",
-              "RelativeToolTip": "3_\uB514\uBC84\uAE45\\Main.c",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\Main.c",
+              "RelativeDocumentMoniker": "4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\Main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\Main.c",
+              "RelativeToolTip": "4_\uC804\uCC98\uB9AC\uAE30\uC640 \uB9C1\uD0B9\uACFC\uC815\\Main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-17T07:12:55.467Z",
+              "WhenOpened": "2025-10-20T07:18:11.121Z",
               "EditorCaption": ""
             }
           ]
