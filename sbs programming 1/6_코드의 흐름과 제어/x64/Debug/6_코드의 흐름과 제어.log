@@ -1,0 +1,3 @@
+﻿  6_Main.cpp
+C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\6_코드의 흐름과 제어\6_Main.cpp(32,8): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char **'입니다.
+  6_코드의 흐름과 제어.vcxproj -> C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\x64\Debug\6_코드의 흐름과 제어.exe
