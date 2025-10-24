@@ -1,6 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdbool.h>
+#include <stdlib.h>
+#include <time.h>
 // (1) 가위 바위 보 게임을 한글로 표현해보세요
 // - 유저 , 컴퓨터
 // 가위, 바위 , 보 중에서 하나를 선택해주세요
@@ -23,45 +25,83 @@
 
 int main()
 {
-	const char* name;
+	//변수생성
+	int user;
+	int computer;
+	srand(time(NULL));
 
-
-	// 조건문 출력 테스트
-	// 세미클론 명령이 끝이 났다.
-	printf("가위 바위 보 게임 시작! \n");
-	scanf("%s", &name);
-		// if () ; <- 세미클론 넣지마세요
-
-
-		// 플레이어가 선택한 결과를 저장
-		// 1. 가위 2. 바위 3. 보 (임의의 약속)
-
-		// 가위 -> 이겼다, 비겼다, 졌다
-	int playerChoice = 1;
-	int computerChoice = 1;
-	int playerScore = 0;
-	int computerScore = 0;
-
-	if (playerChoice && computerChoice == 3)
+	while (true)
 	{
-		playerScore = playerScore + 1;
-		// 조건 - 가위-> 보 "1" -> "3"
-		printf("유저가 승리했습니다\n");
-	
+		//랜덤값설정
+		computer = rand() % 3;
+
+		printf("가위바위보게임을 시작합니다.\n");
+		printf(" 0. 가위 1. 바위 2. 보\n");
+		scanf("%d", &user);
+
+		// 주어진 숫자말고 다른 수를 눌렀을 경우
+		if (0 > user || user > 2)
+		{
+			printf("0~2의 숫자만 입력해주세요\n");
+			continue;
+		}
+
+		// user의 입력값
+		if (user == 0)
+		{
+			printf("가위");
+		}
+		else if (user == 1)
+		{
+			printf("바위");
+		}
+		else
+		{
+			printf("보");
+		}
+
+		//컴퓨터 랜덤 입력값
+		if (computer == 0)
+		{
+			printf("가위");
+		}
+		else if (computer == 1)
+		{
+			printf("바위");
+		}
+		else
+		{
+			printf("보");
+		}
+
+		printf("를 냈습니다.\n");
 	}
-	else if (playerChoice && computerChoice == 1)
+
+	//유저와 컴퓨터의 게임승부결과 
+	if (user == computer)
 	{
-		printf("유저가 비겼습니다\n");
+		printf("비겼습니다\n");
 	}
-	else if (playerChoice && computerChoice == 2)
+	else if (user == 0 && computer == 2 || user == 1 && computer == 0 || user == 2 && computer == 1)
 	{
-		computerScore = computerScore + 1;
-		// 조건 - 가위 -> 바위 "1" -> "2"
-		printf("유저가 졌습니다.\n");
+		printf(" 유저가 이겼습니다\n");
+
 	}
 	else
 	{
-		printf("error\n");
+		printf("컴퓨터가 이겼습니다\n");
 	}
 
+
+
+	printf("게임종료\n");
+	return 0;
 }
+
+		/*
+		* 개발이력을 작성 . History
+		* 가위,바위,보 게임
+		* version 1.0.0 : 가위 바위 보 결과를 출력하는 기능 구현
+		* version 1.0.1 : 유저의 입력 기능 구현 + 입력받을 수 없는 숫자를 대입한 경우에 버그가 발생!
+		*/
+	
