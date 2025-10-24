@@ -30,16 +30,17 @@ int main()
 	int computer;
 	srand(time(NULL));
 
+
 	while (true)
 	{
 		//랜덤값설정
 		computer = rand() % 3;
 
 		printf("가위바위보게임을 시작합니다.\n");
-		printf(" 0. 가위 1. 바위 2. 보");
-		scanf("%d", user);
+		printf(" 0. 가위 1. 바위 2. 보\n");
+		scanf("%d", &user);
 
-		// 주어진 숫자말고 다른 수를 눌렀을 경우
+		// 주어진 숫자말고 다른 수를 눌렀을 경우 -> 함수이름
 		if (0 > user || user > 2)
 		{
 			printf("0~2의 숫자만 입력해주세요\n");
@@ -59,7 +60,7 @@ int main()
 		{
 			printf("보");
 		}
-
+		printf("를 냈습니다.\n");
 		//컴퓨터 랜덤 입력값
 		if (computer == 0)
 		{
@@ -75,25 +76,25 @@ int main()
 		}
 
 		printf("를 냈습니다.\n");
+
+		//유저와 컴퓨터의 게임승부결과 
+		if (user == computer)
+		{
+			printf("비겼습니다\n");
+		}
+		else if (user == 0 && computer == 2 || user == 1 && computer == 0 || user == 2 && computer == 1)
+		{
+			printf(" 유저가 이겼습니다\n");
+
+		}
+		else
+		{
+			printf("컴퓨터가 이겼습니다\n");
+		}
 	}
 
-	//유저와 컴퓨터의 게임승부결과 
-	if (user == computer)
-	{
-		printf("비겼습니다\n");
-	}
-	else if (user == 0 && computer == 2 || user == 1 && computer == 0 || user == 2 && computer == 1)
-	{
-		printf(" 유저가 이겼습니다\n");
-
-	}
-	else
-	{
-		printf("컴퓨터가 이겼습니다\n");
-	}
+	
+ 
 
 
-
-	printf("게임종료\n");
-	return 0;
 }
