@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-git\\sbs programming 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDC5700E-6D64-42BB-ACFD-363886FEB327}|8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9.vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\8_Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CDC5700E-6D64-42BB-ACFD-363886FEB327}|8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9.vcxproj|solutionrelative:8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\8_Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{696E0D2E-501F-461D-9487-97E38BC91208}|a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615\\a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-git\\sbs programming 1\\a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615\\10.Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{696E0D2E-501F-461D-9487-97E38BC91208}|a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615\\a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615.vcxproj|solutionrelative:a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615\\10.Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C05C48D9-D4D2-4EE0-8575-CDD64353EAE2}|7_Main.c\\7_Main.c.vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\7_Main.c\\7_Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C05C48D9-D4D2-4EE0-8575-CDD64353EAE2}|7_Main.c\\7_Main.c.vcxproj|solutionrelative:7_Main.c\\7_Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{696E0D2E-501F-461D-9487-97E38BC91208}|a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615\\a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-git\\sbs programming 1\\a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615\\Math.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{696E0D2E-501F-461D-9487-97E38BC91208}|a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615\\a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615.vcxproj|solutionrelative:a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615\\Math.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC5700E-6D64-42BB-ACFD-363886FEB327}|8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9.vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\Math.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CDC5700E-6D64-42BB-ACFD-363886FEB327}|8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-git\\sbs programming 1\\8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\Math.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CDC5700E-6D64-42BB-ACFD-363886FEB327}|8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9.vcxproj|solutionrelative:8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\Math.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDC5700E-6D64-42BB-ACFD-363886FEB327}|8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9.vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\Math.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CDC5700E-6D64-42BB-ACFD-363886FEB327}|8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9.vcxproj|solutionrelative:8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\Math.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,66 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 930,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "7_Main.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\7_Main.c\\7_Main.c",
-              "RelativeDocumentMoniker": "7_Main.c\\7_Main.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\7_Main.c\\7_Main.c",
-              "RelativeToolTip": "7_Main.c\\7_Main.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-24T08:12:37.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Math.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\Math.h",
-              "RelativeDocumentMoniker": "8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\Math.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\Math.h",
-              "RelativeToolTip": "8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\Math.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-git\\sbs programming 1\\a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615\\Math.h",
+              "RelativeDocumentMoniker": "a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615\\Math.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-git\\sbs programming 1\\a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615\\Math.h",
+              "RelativeToolTip": "a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615\\Math.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-24T08:03:08.33Z",
+              "WhenOpened": "2025-10-28T07:35:09.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Math.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\Math.c",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-git\\sbs programming 1\\8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\Math.c",
               "RelativeDocumentMoniker": "8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\Math.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\Math.c",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-git\\sbs programming 1\\8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\Math.c",
               "RelativeToolTip": "8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\Math.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-24T07:37:29.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T07:37:29.693Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "8_Main.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\8_Main.c",
-              "RelativeDocumentMoniker": "8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\8_Main.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\8_Main.c",
-              "RelativeToolTip": "8_\uD568\uC218\uC758 \uC120\uC5B8 \uBC0F \uC0AC\uC6A9\\8_Main.c",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEwAAAAvAAAAAAAAAA==",
+              "Title": "10.Main.c",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-git\\sbs programming 1\\a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615\\10.Main.c",
+              "RelativeDocumentMoniker": "a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615\\10.Main.c",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-git\\sbs programming 1\\a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615\\10.Main.c",
+              "RelativeToolTip": "a10_\uC0C1\uC218\uC640 \uC5F4\uAC70\uD615\\10.Main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-24T07:17:55.468Z",
+              "WhenOpened": "2025-10-28T07:14:39.57Z",
               "EditorCaption": ""
             }
           ]
