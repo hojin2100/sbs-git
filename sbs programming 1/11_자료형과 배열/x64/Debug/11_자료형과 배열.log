@@ -1,0 +1,22 @@
+﻿  11.Main.c
+C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\11_자료형과 배열\11.Main.c(35,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+      C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\11_자료형과 배열\11.Main.c(35,9):
+      서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+      C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\11_자료형과 배열\11.Main.c(35,9):
+      서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+      C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\11_자료형과 배열\11.Main.c(35,9):
+      서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\11_자료형과 배열\11.Main.c(36,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\11_자료형과 배열\11.Main.c(36,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\11_자료형과 배열\11.Main.c(37,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\11_자료형과 배열\11.Main.c(37,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\11_자료형과 배열\11.Main.c(55,9): warning C4477: 'printf' : 서식 문자열 '%11u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\11_자료형과 배열\11.Main.c(55,9):
+      서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
+  
+  11_자료형과 배열.vcxproj -> C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\x64\Debug\a11_자료형과 배열.exe

@@ -59,19 +59,18 @@ void SelectCharacter(int startPoint)
 	scanf("%d", &selectNumber);
 	if (selectNumber == 0)
 	{
+		printf("STR에 얼마나 분배하시겠습니까?\n");
 		scanf("%d", &spendPoint);
 
 		remainPoint = remainPoint - spendPoint;
 		STR = STR + spendPoint;
-
+		printf("STR이 %d만큼 증가하였습니다", spendPoint);
 	}
-	else if (selectNumber == 1)
+
+	if (remainPoint < spendPoint)
 	{
-		scanf("%d", &spendPoint);
-
-		remainPoint = remainPoint - spendPoint;
-		DEX = DEX + spendPoint;
-
+		printf("%d : %d: %d: %d:", STR, DEX, INT, LUK);
+		return 0;
 	}
 	// remainPoint < spendPoint 이 경우를 어떻게 탈출할 것인가?
 	// 어떤 타이밍에 return을 하고 아래 코드를 실행할 것인가? 조건문으로 구현
