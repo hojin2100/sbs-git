@@ -1,0 +1,5 @@
+﻿  13.Main.c
+C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\a13_포인터\13.Main.c(25,7): warning C4133: '=': 'int *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\a13_포인터\13.Main.c(40,7): warning C4133: '=': 'char *'과(와) 'double *' 사이의 형식이 호환되지 않습니다.
+C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\a13_포인터\13.Main.c(41,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+  a13_포인터.vcxproj -> C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\x64\Debug\a13_포인터.exe

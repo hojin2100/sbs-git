@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a11_자료형과 배열", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a12_이차원 배열", "12_이차원 배열\12_이차원 배열.vcxproj", "{FE0EA62A-4301-43AE-8B73-5D790CEEC4AC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a13_포인터", "a13_포인터\a13_포인터.vcxproj", "{926F9615-8A40-4915-8602-AB779E27F5DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{FE0EA62A-4301-43AE-8B73-5D790CEEC4AC}.Release|x64.Build.0 = Release|x64
 		{FE0EA62A-4301-43AE-8B73-5D790CEEC4AC}.Release|x86.ActiveCfg = Release|Win32
 		{FE0EA62A-4301-43AE-8B73-5D790CEEC4AC}.Release|x86.Build.0 = Release|Win32
+		{926F9615-8A40-4915-8602-AB779E27F5DA}.Debug|x64.ActiveCfg = Debug|x64
+		{926F9615-8A40-4915-8602-AB779E27F5DA}.Debug|x64.Build.0 = Debug|x64
+		{926F9615-8A40-4915-8602-AB779E27F5DA}.Debug|x86.ActiveCfg = Debug|Win32
+		{926F9615-8A40-4915-8602-AB779E27F5DA}.Debug|x86.Build.0 = Debug|Win32
+		{926F9615-8A40-4915-8602-AB779E27F5DA}.Release|x64.ActiveCfg = Release|x64
+		{926F9615-8A40-4915-8602-AB779E27F5DA}.Release|x64.Build.0 = Release|x64
+		{926F9615-8A40-4915-8602-AB779E27F5DA}.Release|x86.ActiveCfg = Release|Win32
+		{926F9615-8A40-4915-8602-AB779E27F5DA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

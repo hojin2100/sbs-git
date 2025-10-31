@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{FE0EA62A-4301-43AE-8B73-5D790CEEC4AC}|12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_\uC774\uCC28\uC6D0 \uBC30\uC5F4.vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FE0EA62A-4301-43AE-8B73-5D790CEEC4AC}|12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_\uC774\uCC28\uC6D0 \uBC30\uC5F4.vcxproj|solutionrelative:12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926F9615-8A40-4915-8602-AB779E27F5DA}|a13_\uD3EC\uC778\uD130\\a13_\uD3EC\uC778\uD130.vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\a13_\uD3EC\uC778\uD130\\13.Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{926F9615-8A40-4915-8602-AB779E27F5DA}|a13_\uD3EC\uC778\uD130\\a13_\uD3EC\uC778\uD130.vcxproj|solutionrelative:a13_\uD3EC\uC778\uD130\\13.Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1589,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "12_Main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_Main.c",
+              "RelativeDocumentMoniker": "12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_Main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_Main.c*",
+              "RelativeToolTip": "12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_Main.c*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-31T08:30:00.256Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -26,26 +43,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "12_Main.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_Main.c",
-              "RelativeDocumentMoniker": "12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_Main.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_Main.c",
-              "RelativeToolTip": "12_\uC774\uCC28\uC6D0 \uBC30\uC5F4\\12_Main.c",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAUwCwAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "13.Main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\a13_\uD3EC\uC778\uD130\\13.Main.c",
+              "RelativeDocumentMoniker": "a13_\uD3EC\uC778\uD130\\13.Main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\a13_\uD3EC\uC778\uD130\\13.Main.c",
+              "RelativeToolTip": "a13_\uD3EC\uC778\uD130\\13.Main.c",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-30T07:39:28.733Z",
+              "WhenOpened": "2025-10-31T07:19:35.294Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 271,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
             }
           ]
         }
