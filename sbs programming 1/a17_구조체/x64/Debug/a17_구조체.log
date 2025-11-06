@@ -1,0 +1,4 @@
+﻿  17_Main.c
+C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\a17_구조체\17_Main.c(38,6): warning C4030: 첫째 정식 매개 변수 목록이 둘째 목록보다 깁니다.
+C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\a17_구조체\17_Main.c(38,6): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+  a17_구조체.vcxproj -> C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\x64\Debug\a17_구조체.exe

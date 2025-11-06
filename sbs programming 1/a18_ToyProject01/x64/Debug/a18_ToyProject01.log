@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\a18_ToyProject01\main.c(24,3): warning C4098: 'Quit': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\a18_ToyProject01\main.c(28,3): warning C4098: 'Quit': 'void' 함수에서 값을 반환하고 있습니다.
+  a18_ToyProject01.vcxproj -> C:\Users\Administrator\Desktop\sbs-git\sbs programming 1\x64\Debug\a18_ToyProject01.exe

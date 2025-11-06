@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5ACCC57E-A128-47BC-9720-63CB9A7CC8A0}|16_\uAD6C\uC870\uCCB4\uC640 \uC5F4\uAC70\uD615\\16_\uAD6C\uC870\uCCB4\uC640 \uC5F4\uAC70\uD615.vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\16_\uAD6C\uC870\uCCB4\uC640 \uC5F4\uAC70\uD615\\16_Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5ACCC57E-A128-47BC-9720-63CB9A7CC8A0}|16_\uAD6C\uC870\uCCB4\uC640 \uC5F4\uAC70\uD615\\16_\uAD6C\uC870\uCCB4\uC640 \uC5F4\uAC70\uD615.vcxproj|solutionrelative:16_\uAD6C\uC870\uCCB4\uC640 \uC5F4\uAC70\uD615\\16_Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{23389AF1-2BA6-412F-883E-1B3453CD3309}|a18_ToyProject01\\a18_ToyProject01.vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\a18_ToyProject01\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23389AF1-2BA6-412F-883E-1B3453CD3309}|a18_ToyProject01\\a18_ToyProject01.vcxproj|solutionrelative:a18_ToyProject01\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "16_Main.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\16_\uAD6C\uC870\uCCB4\uC640 \uC5F4\uAC70\uD615\\16_Main.c",
-              "RelativeDocumentMoniker": "16_\uAD6C\uC870\uCCB4\uC640 \uC5F4\uAC70\uD615\\16_Main.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\16_\uAD6C\uC870\uCCB4\uC640 \uC5F4\uAC70\uD615\\16_Main.c*",
-              "RelativeToolTip": "16_\uAD6C\uC870\uCCB4\uC640 \uC5F4\uAC70\uD615\\16_Main.c*",
-              "ViewState": "AgIAABIAAAAAAAAAAADwvycAAAADAAAAAAAAAA==",
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\a18_ToyProject01\\main.c",
+              "RelativeDocumentMoniker": "a18_ToyProject01\\main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 1\\a18_ToyProject01\\main.c*",
+              "RelativeToolTip": "a18_ToyProject01\\main.c*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-05T07:10:46.469Z",
+              "WhenOpened": "2025-11-06T08:14:23.284Z",
               "EditorCaption": ""
             }
           ]
