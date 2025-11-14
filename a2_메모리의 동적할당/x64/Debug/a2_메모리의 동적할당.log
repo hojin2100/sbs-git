@@ -1,11 +1,11 @@
 ﻿  2.Main.c
-C:\Users\Administrator\Desktop\sbs-git\a2_메모리의 동적할당\2.Main.c(33,31): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
-      C:\Users\Administrator\Desktop\sbs-git\a2_메모리의 동적할당\2.Main.c(33,31):
+C:\Users\user\OneDrive\바탕 화면\sbs-git\a2_메모리의 동적할당\2.Main.c(33,31): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+      C:\Users\user\OneDrive\바탕 화면\sbs-git\a2_메모리의 동적할당\2.Main.c(33,31):
       자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
   
-C:\Users\Administrator\Desktop\sbs-git\a2_메모리의 동적할당\2.Main.c(36,34): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
-      C:\Users\Administrator\Desktop\sbs-git\a2_메모리의 동적할당\2.Main.c(36,34):
+C:\Users\user\OneDrive\바탕 화면\sbs-git\a2_메모리의 동적할당\2.Main.c(36,34): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+      C:\Users\user\OneDrive\바탕 화면\sbs-git\a2_메모리의 동적할당\2.Main.c(36,34):
       자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
   
-C:\Users\Administrator\Desktop\sbs-git\a2_메모리의 동적할당\2.Main.c(39,7): warning C4101: 'nameArray' :참조되지 않은 지역 변수입니다.
-  a2_메모리의 동적할당.vcxproj -> C:\Users\Administrator\Desktop\sbs-git\sbs programming 2\x64\Debug\a2_메모리의 동적할당.exe
+C:\Users\user\OneDrive\바탕 화면\sbs-git\a2_메모리의 동적할당\2.Main.c(39,7): warning C4101: 'nameArray' :참조되지 않은 지역 변수입니다.
+  a2_메모리의 동적할당.vcxproj -> C:\Users\user\OneDrive\바탕 화면\sbs-git\sbs programming 2\x64\Debug\a2_메모리의 동적할당.exe

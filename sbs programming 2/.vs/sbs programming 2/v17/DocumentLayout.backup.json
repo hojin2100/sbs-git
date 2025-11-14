@@ -1,9 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 2\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-git\\sbs programming 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1F71898-ADAB-4F45-B5C9-4E6DEC930BBC}|..\\a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9\\a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9.vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-git\\a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9\\2.Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3CC00844-119E-49C6-AB08-804C0C064931}|a3_\uD615\uBCC0\uD658\uACFC \uBC94\uC6A9\uD3EC\uC778\uD130\\a3_\uD615\uBCC0\uD658\uACFC \uBC94\uC6A9\uD3EC\uC778\uD130.vcxproj|C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-git\\sbs programming 2\\a3_\uD615\uBCC0\uD658\uACFC \uBC94\uC6A9\uD3EC\uC778\uD130\\3_Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CC00844-119E-49C6-AB08-804C0C064931}|a3_\uD615\uBCC0\uD658\uACFC \uBC94\uC6A9\uD3EC\uC778\uD130\\a3_\uD615\uBCC0\uD658\uACFC \uBC94\uC6A9\uD3EC\uC778\uD130.vcxproj|solutionrelative:a3_\uD615\uBCC0\uD658\uACFC \uBC94\uC6A9\uD3EC\uC778\uD130\\3_Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,27 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 278,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "2.Main.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-git\\a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9\\2.Main.c",
-              "RelativeDocumentMoniker": "..\\a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9\\2.Main.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-git\\a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9\\2.Main.c",
-              "RelativeToolTip": "..\\a2_\uBA54\uBAA8\uB9AC\uC758 \uB3D9\uC801\uD560\uB2F9\\2.Main.c",
-              "ViewState": "AgIAABsAAAAAAAAAAAAawCcAAAADAAAAAAAAAA==",
+              "Title": "3_Main.c",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-git\\sbs programming 2\\a3_\uD615\uBCC0\uD658\uACFC \uBC94\uC6A9\uD3EC\uC778\uD130\\3_Main.c",
+              "RelativeDocumentMoniker": "a3_\uD615\uBCC0\uD658\uACFC \uBC94\uC6A9\uD3EC\uC778\uD130\\3_Main.c",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\sbs-git\\sbs programming 2\\a3_\uD615\uBCC0\uD658\uACFC \uBC94\uC6A9\uD3EC\uC778\uD130\\3_Main.c*",
+              "RelativeToolTip": "a3_\uD615\uBCC0\uD658\uACFC \uBC94\uC6A9\uD3EC\uC778\uD130\\3_Main.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-13T07:21:08.144Z",
+              "WhenOpened": "2025-11-14T07:02:11.949Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]
