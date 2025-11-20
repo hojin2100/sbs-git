@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a3_형변환과 범용포�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a6_구조체배열포인터", "a6_구조체배열포인터\a6_구조체배열포인터.vcxproj", "{D2347328-E02E-43D3-8888-881979C8C9AF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a7_파일 입출력", "a7_파일 입출력\a7_파일 입출력.vcxproj", "{BC03B6CD-A105-4CD2-B92F-64A53F809539}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{D2347328-E02E-43D3-8888-881979C8C9AF}.Release|x64.Build.0 = Release|x64
 		{D2347328-E02E-43D3-8888-881979C8C9AF}.Release|x86.ActiveCfg = Release|Win32
 		{D2347328-E02E-43D3-8888-881979C8C9AF}.Release|x86.Build.0 = Release|Win32
+		{BC03B6CD-A105-4CD2-B92F-64A53F809539}.Debug|x64.ActiveCfg = Debug|x64
+		{BC03B6CD-A105-4CD2-B92F-64A53F809539}.Debug|x64.Build.0 = Debug|x64
+		{BC03B6CD-A105-4CD2-B92F-64A53F809539}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC03B6CD-A105-4CD2-B92F-64A53F809539}.Debug|x86.Build.0 = Debug|Win32
+		{BC03B6CD-A105-4CD2-B92F-64A53F809539}.Release|x64.ActiveCfg = Release|x64
+		{BC03B6CD-A105-4CD2-B92F-64A53F809539}.Release|x64.Build.0 = Release|x64
+		{BC03B6CD-A105-4CD2-B92F-64A53F809539}.Release|x86.ActiveCfg = Release|Win32
+		{BC03B6CD-A105-4CD2-B92F-64A53F809539}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

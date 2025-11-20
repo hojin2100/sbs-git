@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2347328-E02E-43D3-8888-881979C8C9AF}|a6_\uAD6C\uC870\uCCB4\uBC30\uC5F4\uD3EC\uC778\uD130\\a6_\uAD6C\uC870\uCCB4\uBC30\uC5F4\uD3EC\uC778\uD130.vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 2\\a6_\uAD6C\uC870\uCCB4\uBC30\uC5F4\uD3EC\uC778\uD130\\6_Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D2347328-E02E-43D3-8888-881979C8C9AF}|a6_\uAD6C\uC870\uCCB4\uBC30\uC5F4\uD3EC\uC778\uD130\\a6_\uAD6C\uC870\uCCB4\uBC30\uC5F4\uD3EC\uC778\uD130.vcxproj|solutionrelative:a6_\uAD6C\uC870\uCCB4\uBC30\uC5F4\uD3EC\uC778\uD130\\6_Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BC03B6CD-A105-4CD2-B92F-64A53F809539}|a7_\uD30C\uC77C \uC785\uCD9C\uB825\\a7_\uD30C\uC77C \uC785\uCD9C\uB825.vcxproj|C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 2\\a7_\uD30C\uC77C \uC785\uCD9C\uB825\\7_Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC03B6CD-A105-4CD2-B92F-64A53F809539}|a7_\uD30C\uC77C \uC785\uCD9C\uB825\\a7_\uD30C\uC77C \uC785\uCD9C\uB825.vcxproj|solutionrelative:a7_\uD30C\uC77C \uC785\uCD9C\uB825\\7_Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "6_Main.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 2\\a6_\uAD6C\uC870\uCCB4\uBC30\uC5F4\uD3EC\uC778\uD130\\6_Main.c",
-              "RelativeDocumentMoniker": "a6_\uAD6C\uC870\uCCB4\uBC30\uC5F4\uD3EC\uC778\uD130\\6_Main.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 2\\a6_\uAD6C\uC870\uCCB4\uBC30\uC5F4\uD3EC\uC778\uD130\\6_Main.c*",
-              "RelativeToolTip": "a6_\uAD6C\uC870\uCCB4\uBC30\uC5F4\uD3EC\uC778\uD130\\6_Main.c*",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Title": "7_Main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 2\\a7_\uD30C\uC77C \uC785\uCD9C\uB825\\7_Main.c",
+              "RelativeDocumentMoniker": "a7_\uD30C\uC77C \uC785\uCD9C\uB825\\7_Main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sbs-git\\sbs programming 2\\a7_\uD30C\uC77C \uC785\uCD9C\uB825\\7_Main.c*",
+              "RelativeToolTip": "a7_\uD30C\uC77C \uC785\uCD9C\uB825\\7_Main.c*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-19T07:18:34.582Z",
+              "WhenOpened": "2025-11-20T07:13:08.003Z",
               "EditorCaption": ""
             }
           ]
