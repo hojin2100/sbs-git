@@ -1,12 +1,12 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <string.h>
+
 // enum == 0 "물" type << 자료구조
 // HashSet<enum, char*> TypeName' TypeName[enumType]
 
 typedef enum  ElementalType
 {
-	
 	물,
 	풀,
 	불,
@@ -15,21 +15,24 @@ typedef enum  ElementalType
 
 typedef enum Place
 {
-	숲,
 	바다,
+	숲,
 	용암,
 	하늘,
 }Place;
 
+typedef enum Gender
+{
+	남성,
+	여성,
+	불명,
+}Gender;
+
 typedef struct Stat
 {
-	int age;
-	int height;
+	float height;
 	float weight;
-	char gender;
 }Stat;
-
-
 
 typedef struct Poketmon
 {
@@ -37,33 +40,124 @@ typedef struct Poketmon
 	ElementalType elementalType;
 	Place place;
 	Stat stat;
+	Gender gender;
 }Poketmon;
 
-char* ReturnTextByEnum(ElementalType type)
+const char* getElementTypeString(ElementalType type) 
 {
-	char typename[100];
-
-	if (type == 물)
-	{
-		strcpy(typename, "물");
+	switch (type) {
+	case 물: 
+		return "물";
+	case 풀: 
+		return "풀";
+	case 불:
+		return "불";
+	case 번개:
+		return "번개";
+	default: 
+		return "알 수 없음";
 	}
-
-	return typename;
 }
+
+const char* getPlaceString(Place place) 
+{
+	switch (place) {
+	case 바다:
+		return "바다";
+	case 숲: 
+		return "숲";
+	case 용암:
+		return "용암";
+	case 하늘: 
+		return "하늘";
+	default: 
+		return "알 수 없음";
+	}
+}
+const char* getGenderString(Gender gender)
+{
+	switch (gender)
+	{
+	case 남성:
+		return "남성";
+	case 여성:
+		return "여성";
+	case 불명 :
+		return "불명";
+	default:
+		return "알 수 없음";
+	}
+}
+
+
 
 int main()
 {
 	Poketmon poketmon;
-	poketmon.elementalType = 물;
+	int num;
 
-	char typename[100];
+	memset(&poketmon, 0, sizeof(poketmon));
 
-	if (poketmon.elementalType == 물)
+	printf("포캣몬 도감\n");
+	printf(" 1. 꼬부기\n");
+	printf(" 2. 이상해씨\n");
+	printf(" 3. 리자몽\n");
+	printf(" 4. 썬더\n");
+	printf("원하는 번호를 입력해주세요\n");
+
+	scanf("%d", &num);
+	
+	switch (num)
 	{
-		strcpy(typename,"물");
+		
+	case 1: //꼬부기
+		strcpy(poketmon.name, "꼬부기");
+		poketmon.elementalType = 물;
+		poketmon.place = 바다;
+		poketmon.stat.height = 0.5f;
+		poketmon.stat.weight = 9.0f;
+		poketmon.gender = 남성;
+		break;
+
+	case 2: //이상해씨
+		strcpy(poketmon.name, "이상해씨");
+		poketmon.elementalType = 풀;
+		poketmon.place = 숲;
+		poketmon.stat.height = 0.7f;
+		poketmon.stat.weight = 6.9f;
+		poketmon.gender = 여성;
+		break;
+
+	case 3: //리자몽
+		strcpy(poketmon.name, "리자몽");
+		poketmon.elementalType = 불;
+		poketmon.place = 용암;
+		poketmon.stat.height = 1.7f;
+		poketmon.stat.weight = 90.5f;
+		poketmon.gender = 남성;
+		break;
+
+	case 4: //썬더
+		strcpy(poketmon.name, "썬더");
+		poketmon.elementalType = 번개;
+		poketmon.place = 하늘;
+		poketmon.stat.height = 1.6f;
+		poketmon.stat.weight = 52.6f;
+		poketmon.gender = 불명;
+		break;
+
+	default:
+		printf("잘못된 번호입니다\n");
+		return 0;
 	}
 
-	printf("포켓몬의 타입은 %s\n", typename);
+	printf("\n----선택한 포캣몬의 정보----\n");
+	printf("이름 : %s\n", poketmon.name);
+	printf("타입 : %s\n", getElementTypeString(poketmon.elementalType));
+	printf("출현장소 : %s\n", getPlaceString(poketmon.place));
+	printf("키 : %0.1fm\n", poketmon.stat.height);
+	printf("몸무게 : %0.1fkg\n", poketmon.stat.weight);
+	printf("성별 : %s\n", getGenderString(poketmon.gender));
 
-	//printf("포켓몬의 스탯 ")
-}
+	return 0;
+};

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e551c9a-1b10-46c5-91c5-2c7b7498bb64": {
+      "ProjectGuid": "2e551c9a-1b10-46c5-91c5-2c7b7498bb64",
+      "DisplayName": "b11_Json쓰기",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "74b34548-b837-44ec-a737-97441cf98ee1": {
+      "ProjectGuid": "74b34548-b837-44ec-a737-97441cf98ee1",
+      "DisplayName": "a9_Project_Poketmon",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
