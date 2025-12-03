@@ -1,6 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <string.h>
+#include <conio.h>
+
 
 // enum == 0 "물" type << 자료구조
 // HashSet<enum, char*> TypeName' TypeName[enumType]
@@ -98,66 +100,89 @@ int main()
 
 	memset(&poketmon, 0, sizeof(poketmon));
 
-	printf("포캣몬 도감\n");
-	printf(" 1. 꼬부기\n");
-	printf(" 2. 이상해씨\n");
-	printf(" 3. 리자몽\n");
-	printf(" 4. 썬더\n");
-	printf("원하는 번호를 입력해주세요\n");
-
-	scanf("%d", &num);
-	
-	switch (num)
+	while (1)
 	{
-		
-	case 1: //꼬부기
-		strcpy(poketmon.name, "꼬부기");
-		poketmon.elementalType = 물;
-		poketmon.place = 바다;
-		poketmon.stat.height = 0.5f;
-		poketmon.stat.weight = 9.0f;
-		poketmon.gender = 남성;
-		break;
+		system("cls");
+		printf("포캣몬 도감\n");
+		printf(" 1. 꼬부기\n");
+		printf(" 2. 이상해씨\n");
+		printf(" 3. 리자몽\n");
+		printf(" 4. 썬더\n");
+		printf(" 0. 종료\n");
+		printf("원하는 번호를 입력해주세요\n");
 
-	case 2: //이상해씨
-		strcpy(poketmon.name, "이상해씨");
-		poketmon.elementalType = 풀;
-		poketmon.place = 숲;
-		poketmon.stat.height = 0.7f;
-		poketmon.stat.weight = 6.9f;
-		poketmon.gender = 여성;
-		break;
+		fflush(stdin);
+		// 사용자가 번호를 입력하고 엔터를 눌러야 함
+		if (scanf("%d", &num) != 1) {
+			// 숫자가 아닌 입력이 들어왔을 때 처리
+			printf("잘못된 입력입니다. 프로그램을 종료합니다.\n");
+			return 0;
+		}
 
-	case 3: //리자몽
-		strcpy(poketmon.name, "리자몽");
-		poketmon.elementalType = 불;
-		poketmon.place = 용암;
-		poketmon.stat.height = 1.7f;
-		poketmon.stat.weight = 90.5f;
-		poketmon.gender = 남성;
-		break;
+		if (num == 0) {
+			printf("프로그램을 종료합니다.\n");
+			break; // 0 입력 시 while 루프 탈출
+		}
 
-	case 4: //썬더
-		strcpy(poketmon.name, "썬더");
-		poketmon.elementalType = 번개;
-		poketmon.place = 하늘;
-		poketmon.stat.height = 1.6f;
-		poketmon.stat.weight = 52.6f;
-		poketmon.gender = 불명;
-		break;
+		switch (num)
+		{
 
-	default:
-		printf("잘못된 번호입니다\n");
-		return 0;
+		case 1: //꼬부기
+			strcpy(poketmon.name, "꼬부기");
+			poketmon.elementalType = 물;
+			poketmon.place = 바다;
+			poketmon.stat.height = 0.5f;
+			poketmon.stat.weight = 9.0f;
+			poketmon.gender = 남성;
+			break;
+
+		case 2: //이상해씨
+			strcpy(poketmon.name, "이상해씨");
+			poketmon.elementalType = 풀;
+			poketmon.place = 숲;
+			poketmon.stat.height = 0.7f;
+			poketmon.stat.weight = 6.9f;
+			poketmon.gender = 여성;
+			break;
+
+		case 3: //리자몽
+			strcpy(poketmon.name, "리자몽");
+			poketmon.elementalType = 불;
+			poketmon.place = 용암;
+			poketmon.stat.height = 1.7f;
+			poketmon.stat.weight = 90.5f;
+			poketmon.gender = 남성;
+			break;
+
+		case 4: //썬더
+			strcpy(poketmon.name, "썬더");
+			poketmon.elementalType = 번개;
+			poketmon.place = 하늘;
+			poketmon.stat.height = 1.6f;
+			poketmon.stat.weight = 52.6f;
+			poketmon.gender = 불명;
+			break;
+
+		default:
+			printf("잘못된 번호입니다\n");
+			continue;
+		}
+
+
+		printf("\n----선택한 포캣몬의 정보----\n");
+		printf("이름 : %s\n", poketmon.name);
+		printf("타입 : %s\n", getElementTypeString(poketmon.elementalType));
+		printf("출현장소 : %s\n", getPlaceString(poketmon.place));
+		printf("키 : %0.1fm\n", poketmon.stat.height);
+		printf("몸무게 : %0.1fkg\n", poketmon.stat.weight);
+		printf("성별 : %s\n", getGenderString(poketmon.gender));
+
+		printf("\n뒤로가기 \n");
+		printf("아무 키나 눌러주세요");
+		_getch();
 	}
 
-	printf("\n----선택한 포캣몬의 정보----\n");
-	printf("이름 : %s\n", poketmon.name);
-	printf("타입 : %s\n", getElementTypeString(poketmon.elementalType));
-	printf("출현장소 : %s\n", getPlaceString(poketmon.place));
-	printf("키 : %0.1fm\n", poketmon.stat.height);
-	printf("몸무게 : %0.1fkg\n", poketmon.stat.weight);
-	printf("성별 : %s\n", getGenderString(poketmon.gender));
+
 
 	return 0;
 };

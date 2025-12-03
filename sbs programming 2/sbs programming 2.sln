@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a9_Project_Poketmon", "a9_P
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "b11_Json쓰기", "a11_Json쓰기\a11_Json쓰기.vcxproj", "{2E551C9A-1B10-46C5-91C5-2C7B7498BB64}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "b12_color.sound", "b12_color.sound\b12_color.sound.vcxproj", "{F3A0B3B9-BF97-4A3C-B14B-AC1EA79AB33E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{2E551C9A-1B10-46C5-91C5-2C7B7498BB64}.Release|x64.Build.0 = Release|x64
 		{2E551C9A-1B10-46C5-91C5-2C7B7498BB64}.Release|x86.ActiveCfg = Release|Win32
 		{2E551C9A-1B10-46C5-91C5-2C7B7498BB64}.Release|x86.Build.0 = Release|Win32
+		{F3A0B3B9-BF97-4A3C-B14B-AC1EA79AB33E}.Debug|x64.ActiveCfg = Debug|x64
+		{F3A0B3B9-BF97-4A3C-B14B-AC1EA79AB33E}.Debug|x64.Build.0 = Debug|x64
+		{F3A0B3B9-BF97-4A3C-B14B-AC1EA79AB33E}.Debug|x86.ActiveCfg = Debug|Win32
+		{F3A0B3B9-BF97-4A3C-B14B-AC1EA79AB33E}.Debug|x86.Build.0 = Debug|Win32
+		{F3A0B3B9-BF97-4A3C-B14B-AC1EA79AB33E}.Release|x64.ActiveCfg = Release|x64
+		{F3A0B3B9-BF97-4A3C-B14B-AC1EA79AB33E}.Release|x64.Build.0 = Release|x64
+		{F3A0B3B9-BF97-4A3C-B14B-AC1EA79AB33E}.Release|x86.ActiveCfg = Release|Win32
+		{F3A0B3B9-BF97-4A3C-B14B-AC1EA79AB33E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

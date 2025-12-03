@@ -1,2 +1,3 @@
 ﻿  Main.c
+C:\Users\Administrator\Desktop\sbs-git\sbs programming 2\a9_Project_Poketmon\Main.c(105,9): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   a9_Project_Poketmon.vcxproj -> C:\Users\Administrator\Desktop\sbs-git\sbs programming 2\x64\Debug\a9_Project_Poketmon.exe

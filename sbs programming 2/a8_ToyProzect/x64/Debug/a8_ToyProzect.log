@@ -1,6 +1,1 @@
-﻿  Title.c
-C:\Users\Administrator\Desktop\sbs-git\sbs programming 2\a8_ToyProzect\Title.c(33,20): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
-C:\Users\Administrator\Desktop\sbs-git\sbs programming 2\a8_ToyProzect\Title.c(33,20): warning C4024: 'SetDataYPosInput': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
-C:\Users\Administrator\Desktop\sbs-git\sbs programming 2\a8_ToyProzect\Title.c(43,3): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\Administrator\Desktop\sbs-git\sbs programming 2\a8_ToyProzect\Title.c(51,6): warning C4013: '_kbhit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  a8_ToyProzect.vcxproj -> C:\Users\Administrator\Desktop\sbs-git\sbs programming 2\x64\Debug\a8_ToyProzect.exe
+﻿  a8_ToyProzect.vcxproj -> C:\Users\Administrator\Desktop\sbs-git\sbs programming 2\x64\Debug\a8_ToyProzect.exe

@@ -15,7 +15,12 @@
       "ProjectGuid": "74b34548-b837-44ec-a737-97441cf98ee1",
       "DisplayName": "a9_Project_Poketmon",
       "ColorIndex": 1
+    },
+    "f3a0b3b9-bf97-4a3c-b14b-ac1ea79ab33e": {
+      "ProjectGuid": "f3a0b3b9-bf97-4a3c-b14b-ac1ea79ab33e",
+      "DisplayName": "b12_color.sound",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
