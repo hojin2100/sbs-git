@@ -20,7 +20,12 @@
       "ProjectGuid": "f3a0b3b9-bf97-4a3c-b14b-ac1ea79ab33e",
       "DisplayName": "b12_color.sound",
       "ColorIndex": 2
+    },
+    "365a26b8-bcf8-4aef-a024-76ccbd261cf7": {
+      "ProjectGuid": "365a26b8-bcf8-4aef-a024-76ccbd261cf7",
+      "DisplayName": "a8_ToyProzect",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

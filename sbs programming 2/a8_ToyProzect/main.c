@@ -103,7 +103,7 @@ void Update()
 	Sleep(50);  
 }
 
-void Render()
+void poketmon_Render()
 {
 	//system("cls");
 	//GoToXY(playerPos.x, playerPos.y);
@@ -164,7 +164,7 @@ int main()
 		// PlayerControl 함수로 이동할 예정
 		PlayerControl();
 		Update();
-		Render();
+		poketmon_Render();
 		if (Quit())
 		{
 			break;

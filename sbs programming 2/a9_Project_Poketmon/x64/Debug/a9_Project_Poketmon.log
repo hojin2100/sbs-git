@@ -1,3 +1,7 @@
 ﻿  Main.c
-C:\Users\Administrator\Desktop\sbs-git\sbs programming 2\a9_Project_Poketmon\Main.c(105,9): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\Administrator\Desktop\sbs-git\sbs programming 2\a9_Project_Poketmon\Main.c(17,8): warning C4013: 'Render'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  poketmon_output.c
+C:\Users\Administrator\Desktop\sbs-git\sbs programming 2\a9_Project_Poketmon\poketmon_output.c(62,9): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\Administrator\Desktop\sbs-git\sbs programming 2\a9_Project_Poketmon\poketmon_output.c(76,12): warning C4098: 'Render': 'void' 함수에서 값을 반환하고 있습니다.
+  코드를 생성하고 있습니다...
   a9_Project_Poketmon.vcxproj -> C:\Users\Administrator\Desktop\sbs-git\sbs programming 2\x64\Debug\a9_Project_Poketmon.exe

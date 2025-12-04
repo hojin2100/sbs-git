@@ -1,2 +1,5 @@
 ﻿  3_Main.c
-  a3_형변환과 범용포인터.vcxproj -> C:\Users\user\OneDrive\바탕 화면\sbs-git\sbs programming 2\x64\Debug\a3_형변환과 범용포인터.exe
+C:\Users\Administrator\Desktop\sbs-git\sbs programming 2\a3_형변환과 범용포인터\3_Main.c(83,17): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\Desktop\sbs-git\sbs programming 2\a3_형변환과 범용포인터\3_Main.c(99,6): error C2084: 'void PointerCastingTest()' 함수에 이미 본문이 있습니다.
+C:\Users\Administrator\Desktop\sbs-git\sbs programming 2\a3_형변환과 범용포인터\3_Main.c(41): message : 'PointerCastingTest'의 이전 정의를 참조하십시오.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(693,5): error MSB6006: "CL.exe"이(가) 종료되었습니다(코드: 2).

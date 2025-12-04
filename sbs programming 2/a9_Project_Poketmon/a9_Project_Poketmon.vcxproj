@@ -128,6 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Main.c" />
+    <ClCompile Include="poketmon_output.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="poketmon_info.h" />
+    <ClInclude Include="poketmon_output.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
